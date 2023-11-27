@@ -1,0 +1,16 @@
+{
+  "name": "ramdajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add_sub.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.29.1"
+  }
+}
